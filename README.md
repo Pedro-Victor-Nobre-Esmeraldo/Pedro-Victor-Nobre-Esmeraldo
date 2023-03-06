@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pedro-Victor-Nobre-Esmeraldo
 - 👀 I’m interested in anime, games, music, books, movies and pretty much everything fantastic
 - 🌱 I’m currently learning software development at Cubos Academy
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - pedrovictornse@gmail.com
 
